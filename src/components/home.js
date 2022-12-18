@@ -33,7 +33,7 @@ function Home() {
         
 
           <form
-            className="bg-black/50 flex flex-col items-center gap-6 mb-20 justify-center pb-10 rounded-[1rem] w-[80vw]  md:w-[30vw] lg:w-[30vw] xl:w-[20vw] h-[40vh] "
+            className="bg-black/50 flex flex-col items-center gap-6 mb-20 justify-center pb-10 rounded-[1rem] h-[300px]  w-[300px] "
             onSubmit={submit}
           >
             <div className="">
